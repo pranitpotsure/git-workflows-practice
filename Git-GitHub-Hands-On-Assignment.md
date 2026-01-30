@@ -1,6 +1,5 @@
 ## New to Git & GitHub? Below assignment covers all the required basics to be confident as a DevOps Engineer.
 
-![Git & GitHub](https://imgur.com/9yYHc6T.png)
 
 ---
 
