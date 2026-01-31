@@ -1,4 +1,3 @@
-
 # Git & GitHub for DevOps Engineering
 _A Practical, Production-Oriented Guide_
 
